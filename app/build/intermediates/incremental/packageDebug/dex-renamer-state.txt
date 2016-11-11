@@ -1,0 +1,7 @@
+#Mon Oct 17 02:20:56 CDT 2016
+base.0=C\:\\Users\\brand\\AndroidStudioProjects\\Breathe\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_b88b37a5e9479ef21976bd4af4438e58782ce16e
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\brand\\AndroidStudioProjects\\Breathe\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_98bec1b5e39a5e3e35660cba7478dd3df355606b\\classes.dex
+base.1=C\:\\Users\\brand\\AndroidStudioProjects\\Breathe\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_98bec1b5e39a5e3e35660cba7478dd3df355606b
+file.0=C\:\\Users\\brand\\AndroidStudioProjects\\Breathe\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_b88b37a5e9479ef21976bd4af4438e58782ce16e\\classes.dex
